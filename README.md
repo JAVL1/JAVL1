@@ -61,6 +61,7 @@ I don´t know yet...I use Github to version control some of my personal projects
 
 ## Publications
 Besides delivering shareholder value... I contributed to science... once! 
+
 **Characterization of hard coatings produced by laser cladding using LIBS technique**  
 *Applied Surface Science Journal* · [doi:10.1016/j.apsusc.2015.01.037](https://doi.org/10.1016/j.apsusc.2015.01.037)
 
