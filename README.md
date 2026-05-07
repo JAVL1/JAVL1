@@ -18,7 +18,7 @@ Previously at **HP Inc.** for 8 years, where I launched PrintOS (a SaaS cloud pl
 ## What I'm Working On
 
 - 🔐 **AI Cybersecurity Commercialization** — Leading product requirements and GTM for ADSP, AI Guardrails and BIG-IP at F5, targeting a market with 300% CAGR
-- 🤝 **CrowdStrike Partnership** — Driving the EDR commercialization model within Networking devices for a $X00M opportunity
+- 🤝 **EDR/CrowdStrike Partnership** — F% recently partnerewd with crowdStrike to ofer EDR solutions into BIG-IP devices, I´m leading the effort of creating a new commercialization model for EDR solutions within Networking devices for a $X00M opportunity
 - 📚 Building AI agents that can help fellow PMs to prototype and ship products and commercial offers faster!
 
 ---
