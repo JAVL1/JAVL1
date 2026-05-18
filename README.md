@@ -55,7 +55,7 @@ Previously at **HP Inc.** for 8 years, where I launched PrintOS (a SaaS cloud pl
 
 ## What You'll Find Here
 
-I don´t know yet...I use Github to version control some of my personal projects. I'll make some of them available, explain my thinking, share my victories and blame other for my failures.
+I don´t know yet...I use Github to version control some of my personal projects. I'll make some of them available, explain my thinking, share my victories and blame other for my failures (just kidding obv.).
 
 ---
 
