@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a data-driven Senior PM with 9+ years of experience building and scaling multi-million-dollar product portfolios across **B2B SaaS, cloud platforms, AI solutions, and technology licensing**. Currently at **F5 Networks**, where I'm leading commercialization for a new Application Delivery & Security Platform targeting a multibillion-dollar market.
+I'm a data-driven Senior PM with 10+ years of experience building and scaling multi-million-dollar product portfolios across **B2B SaaS, cloud platforms, AI solutions, and technology licensing**. Currently at **F5 Networks**, where I'm leading commercialization for a new Application Delivery & Security Platform targeting a multibillion-dollar market.
 
 I thrive at the intersection of technical innovation and business strategy — translating complex customer needs into clear roadmaps, shipping products that drive real revenue, and aligning cross-functional teams around a shared vision.
 
